@@ -16,12 +16,6 @@ hr {
     margin: 2rem 0rem;
 }
 
-.head-color {
-    background-color: var(--primary-color);
-    padding: 1rem;
-    border-radius: 1rem;
-}
-
 /**container**/
 
 .container {
@@ -36,11 +30,8 @@ hr {
 
 /** links **/
 .link {
-    box-sizing: border-box;
     text-decoration: none;
     padding: 0.5rem 1rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
 }
 
 .link-primary {
@@ -54,11 +45,6 @@ hr {
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
 }
-
-.link-center {
-    text-align: center;
-}
-
 /** search BEM naming convention for CSS**/
 
 /**lists**/
@@ -75,11 +61,6 @@ hr {
     text-align: center;
 }
 
-.list-ordered-center {
-    text-align: center;
-    list-style-position: inside;
-    padding-inline-start: 0px;
-}
 
 /** navigation**/
 
