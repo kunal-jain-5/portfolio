@@ -38,12 +38,14 @@ hr {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: var(--dark-green);
+    font-weight: bold;
 }
 
 .link-secondary {
     color: var(--dark-green);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+    font-weight: bold;
 }
 /** search BEM naming convention for CSS**/
 
