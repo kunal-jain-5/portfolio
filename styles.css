@@ -76,7 +76,7 @@ hr {
 
 .navigation .nav-brand {
     font-weight: bold;
-    font-size: 1.1rem;
+    font-size: 2rem;
 }
 
 .navigation .nav-pills {
@@ -89,6 +89,7 @@ hr {
 
 .navigation .link-active {
     font-weight: bold;
+    font-size: x-large;
 }
 
 /** header **/
